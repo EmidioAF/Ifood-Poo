@@ -51,4 +51,3 @@ Possível herança:
 - Pedido → Produto (um pedido tem vários produtos).
 - Restaurante → Produto (um restaurante oferece vários produtos).
 
-Quer que eu monte agora o **código Java completo** dessa versão simplificada do iFood (com classes, herança, e um menu interativo no console)?
